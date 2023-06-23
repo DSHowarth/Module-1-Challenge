@@ -20,7 +20,7 @@ header h1 {
     font-size: 48px;
 }
 
-header nav {
+nav {
     padding-top: 15px;
     margin-right: 20px;
     float: right;
@@ -29,7 +29,7 @@ header nav {
     list-style-type: none;
 }
 
-header nav li {
+nav li {
     display: inline-block;
     margin-left: 25px;
 }
@@ -39,14 +39,9 @@ a {
     text-decoration: none;
 }
 
-
 .back {
-    height: 800px;
     width: 100%;
     margin-bottom: 25px;
-    background-image: url("../images/digital-marketing-meeting.jpg");
-    background-size: cover;
-    background-position: center;
 }
 
 .content {
@@ -55,9 +50,8 @@ a {
     margin-left: 20px;
 }
 
-p {
-    font-size: 16px;
-}
+/* removed p tag due to only trait being default font size (16px) */
+
 
 #search-engine-optimization img{
     float: left;
@@ -101,11 +95,11 @@ aside {
     height: 100%;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #2589bd;
+    color: #ffffff;
 }
 
 .benefit {
     margin-bottom: 32px;
-    color: #ffffff;
 }
 
 .benefit h3 {

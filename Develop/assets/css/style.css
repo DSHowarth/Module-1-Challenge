@@ -15,6 +15,12 @@ header {
     color: #ffffff;
 }
 
+/* Creating partial coloration of title */
+.seo{
+    color: #d9dcd6;
+}
+
+
 header h1 {
     display: inline-block;
     font-size: 48px;
@@ -29,15 +35,18 @@ nav {
     list-style-type: none;
 }
 
+/* Hyperlinks display in a row rather than column */
 nav li {
     display: inline-block;
     margin-left: 25px;
 }
 
+/* Making hyperlinks not look like hyperlinks*/
 a {
     color: #ffffff;
     text-decoration: none;
 }
+
 
 .header-img {
     width: 100%;
@@ -52,7 +61,7 @@ main {
 
 /* removed p tag due to only trait being default font size (16px) */
 
-
+/* Condensing duplicate formatting settings */
 .product {
     margin-bottom: 20px;
     padding: 50px;
@@ -73,6 +82,7 @@ main {
     margin-right: 25px;
 }
 
+/* Format of middle section is flipped */
 #online-reputation-management img{
     float: right;
 }
@@ -89,6 +99,7 @@ aside {
     color: #ffffff;
 }
 
+/* Side box contains 3 picture/captions in a column */
 .benefit {
     margin-bottom: 32px;
 }

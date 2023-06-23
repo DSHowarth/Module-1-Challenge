@@ -41,7 +41,7 @@ nav li {
     margin-left: 25px;
 }
 
-/* Making hyperlinks not look like hyperlinks*/
+/* Making hyperlinks not look like hyperlinks (no underline, no transform blue>purple on click)*/
 a {
     color: #ffffff;
     text-decoration: none;

@@ -9,11 +9,12 @@
 
 ## Description 
 
-This basic site should now have much more readable and condensed html/CSS. Additionally, the title and images have been edited to increase accessibility. 
+This basic site should now have much more readable and condensed HTML/CSS. Additionally, the title and images have been edited to increase accessibility. 
+![Alt text](image-1.png)
 
 ## Usage
 
-View the site at 
+View the site at DSHowarth.github.io
 
 ## Credits
 

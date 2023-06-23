@@ -1,4 +1,5 @@
-# Code Refactor Starter Code
+# Making a Nonsense site, better. 
+
 ## Technology Used 
 
 | Technology Used         | Resource URL           | 
@@ -14,7 +15,7 @@ This basic site should now have much more readable and condensed HTML/CSS. Addit
 
 ## Usage
 
-View the site at DSHowarth.github.io
+View the site at https://dshowarth.github.io/Module-1-Challenge/
 
 ## Credits
 

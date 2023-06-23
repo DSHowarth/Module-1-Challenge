@@ -39,12 +39,12 @@ a {
     text-decoration: none;
 }
 
-.back {
+.header-img {
     width: 100%;
     margin-bottom: 25px;
 }
 
-.content {
+main {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
@@ -52,21 +52,6 @@ a {
 
 /* removed p tag due to only trait being default font size (16px) */
 
-
-#search-engine-optimization img{
-    float: left;
-    margin-right: 25px;
-}
-
-#online-reputation-management img{
-    float: right;
-    margin-right: 25px;
-}
-
-#social-media-marketing img{
-    float: left;
-    margin-right: 25px;
-}
 
 .product {
     margin-bottom: 20px;
@@ -77,13 +62,19 @@ a {
     color: #ffffff;
 }
 
-.product img {
-    max-height: 200px;
-}
-
 .product h2 {
     margin-bottom: 20px;
     font-size: 36px;
+}
+
+.product img {
+    max-height: 200px;
+    float: left;
+    margin-right: 25px;
+}
+
+#online-reputation-management img{
+    float: right;
 }
 
 aside {
